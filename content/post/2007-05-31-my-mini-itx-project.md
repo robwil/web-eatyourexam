@@ -12,7 +12,7 @@ url: /?p=92
   <img src="http://eatyourexam.com/photos/albums/uploads/mini_server/normal_009.jpg" alt="My Mini Server" />
 </p>
 
-UPDATE (05-31-07): I finally got the pictures up for the Mini-ITX server. Check them out <a href="http://eatyourexam.com/photos/thumbnails.php?album=6" title="Mini Server Build Photo Gallery" target="_blank">here</a>. If you are interested in the components behind it, read the original post below.
+UPDATE (05-31-07): I finally got the pictures up for the Mini-ITX server. Check them out [here](http://eatyourexam.com/photos/thumbnails.php?album=6). If you are interested in the components behind it, read the original post below.
 
 &#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-
 
@@ -30,4 +30,4 @@ My final goal was getting a web server with PHP support installed. I chose to us
 
 With all the software taken care of, I now look at my semi-completed Mini-ITX Server. I face one last hurdle&#8230; that of a case. I purposely chose not to buy a case, both for monetary and DIYish reasons. So, hopefully some time in the next few weeks I will come up with a good idea for how to house the components. A 7.5&#8243;x7.5&#8243;x3.5&#8243; container of some sort would fit everything and then some. I don&#8217;t, however, want to simply use one of the oft-used cop-outs like a cardboard box or a cigar case. I want something original. I&#8217;m currently looking into a hermit crab cage or small fish aquarium, but they&#8217;re a little too pre-made for me. We&#8217;ll see what I come up with.
 
-In the mean time, I am going to be slowly adding pictures of the currently caseless build to my Coppermine photo gallery that has been long neglected, which can be reached <a href="http://eatyourexam.com/photos" title="Eatyourexam Photo Archive" target="_blank">here</a>. I am not, however, making any promises on when those will be up.
+In the mean time, I am going to be slowly adding pictures of the currently caseless build to my Coppermine photo gallery that has been long neglected, which can be reached [here](http://eatyourexam.com/photos). I am not, however, making any promises on when those will be up.

@@ -26,8 +26,8 @@ The bottom line is this. Microsoft has a great product, but its once-awesome fea
 
 I am going to close with links to two articles.
 
-John Gruber, on his blog site, <a title="Daring Fireball" href="http://daringfireball.net" target="_blank">Daring Fireball</a>, <a title="Daring Fireball: Good Journalism" href="http://daringfireball.net/2006/05/good_journalism" target="_blank">rebuts</a> the media&#8217;s recent attacks on the security of Mac OS X.
+John Gruber, on his blog site, [rebuts](http://daringfireball.net/2006/05/good_journalism) the media&#8217;s recent attacks on the security of Mac OS X.
 
-Gartner, over at <a title="Reuters.com" href="http://reuters.com" target="_blank">Reuters.com</a>, <a title="Reuters: Vista Delayed Again?" href="http://today.reuters.co.uk/news/newsArticle.aspx?type=internetNews&#038;storyID=2006-05-02T172703Z_01_N02271704_RTRIDST_0_OUKIN-UK-MICROSOFT-VISTA.XML" target="_blank">theorizes</a> about another possible delay in the Windows Vista operating system.
+Gartner, over at [theorizes](http://today.reuters.co.uk/news/newsArticle.aspx?type=internetNews&#038;storyID=2006-05-02T172703Z_01_N02271704_RTRIDST_0_OUKIN-UK-MICROSOFT-VISTA.XML) about another possible delay in the Windows Vista operating system.
 
 The themes of these two articles reverberates what I am saying. Microsoft Windows is lagging behind while Apple Mac OS X is keeping its status as fresh and secure while growing quickly.

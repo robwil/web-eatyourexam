@@ -12,6 +12,6 @@ Well, if you haven&#8217;t noticed (you may want to make an appointment with you
 
 **UPDATE (07-07-06):** _I have since un-ugly-ified the comments section by manually removing the default avatar and generally cleaning it up. I love this theme, but that section was poorly done. That&#8217;s probably why it couldn&#8217;t win the WordPress Theme Contest. ANYWAY, I still would like people to get avatars, just because it is so much cooler when you have a picture represent you. Don&#8217;t you agree?_ 
 
-So what am I going to do about this ugliness? Simple! I am going to make you pay to change it. All you have to do is Register for this blog (click <a target="_blank" title="Register!" href="http://eatyourexam.com/wp-register.php">here</a> to do that). It only costs&#8230;
+So what am I going to do about this ugliness? Simple! I am going to make you pay to change it. All you have to do is Register for this blog (click [here](http://eatyourexam.com/wp-register.php) to do that). It only costs&#8230;
 
 It&#8217;s actually _**free**_. So, what are you waiting for? Register, then make yourself or find yourself a cool avatar. Then start posting comments so the comments sections can be populated with cool avatars. See the logic? Good. So register and then be happy when stuff becomes un-ugly.

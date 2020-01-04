@@ -8,7 +8,7 @@ id: 49
 title: Photo Gallery
 url: /?p=49
 ---
-I added a Coppermine Photo Gallery to the site. It is accessible at eatyourexam.com/photos. Currently, I have one album up, and it is my cars from Gran Turismo 4. I used the Photo Travel feature in the game to pose and snap pictures of my cars with cool backdrops. Check that out <a target="_blank" title="Eatyourexam.com Photo Gallery: Gran Turismo 4" href="http://eatyourexam.com/photos/thumbnails.php?album=1">here</a>.
+I added a Coppermine Photo Gallery to the site. It is accessible at eatyourexam.com/photos. Currently, I have one album up, and it is my cars from Gran Turismo 4. I used the Photo Travel feature in the game to pose and snap pictures of my cars with cool backdrops. Check that out [here](http://eatyourexam.com/photos/thumbnails.php?album=1).
 
 Once I get my new motherboard, and I get my computer up and running, this site is going to shift back into focus for me, especially after school is over.
 

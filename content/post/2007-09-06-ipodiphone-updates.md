@@ -16,7 +16,7 @@ Apple today hosted a special event at which they unveiled the new iPods, and als
   * The brand NEW iPod (hence the need for an iPod Classic) is called the iPod Touch. It is essentially an iPhone that doesn&#8217;t make phone calls. It does music, video, photos all like the iPhone, and also has Wi-Fi internet access and is Safari and Youtube-enabled. Yay! The problem is that it, like the iPhone, uses flash-based storage. Meaning less space. The versions are 8GB for $299 and 16GB for $399.
   * iPhone 4GB, previously $499, no longer exists. iPhone 8GB, previously $599, is reduced to $399 after less than 3 months!
 
-OK. That basically summarizes it. Head on over to Apple&#8217;s <a href="http://apple.com/ipod" title="Apple.com: iPod" target="_blank">iPod</a> section to see pictures and more info about all of the new changes made to the iPod lineup. You really need to see the iPod Nano to appreciate its odd appearance.
+OK. That basically summarizes it. Head on over to Apple&#8217;s [iPod](http://apple.com/ipod) section to see pictures and more info about all of the new changes made to the iPod lineup. You really need to see the iPod Nano to appreciate its odd appearance.
 
 I just have a few comments.
 

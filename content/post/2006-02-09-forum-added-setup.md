@@ -5,7 +5,7 @@ categories:
 date: "2006-02-09T15:55:18Z"
 guid: http://eatyourexam.com/?p=11
 id: 11
-title: Forum Added &#038; Setup
+title: Forum Added & Setup
 url: /?p=11
 ---
 I added a phpBB forum to the site, just for the heck of it. You can access it by clicking on the appropriately named &#8220;Forum&#8221; link on the side bar. People have been using the comment section of the blog to ask me questions, etc., mainly because that was the only place they could write stuff. Well, now I added the forum, so that is where questions should be posted. I&#8217;m going to try to keep the comments as&#8230; comments. Any tech questions or general things should be on the forum.

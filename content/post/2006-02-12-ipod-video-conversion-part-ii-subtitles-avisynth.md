@@ -6,10 +6,10 @@ categories:
 date: "2006-02-12T19:43:37Z"
 guid: http://eatyourexam.com/?p=14
 id: 14
-title: 'iPod Video Conversion Part II: Subtitles &#038; AviSynth'
+title: 'iPod Video Conversion Part II: Subtitles & AviSynth'
 url: /?p=14
 ---
-Note: A reader, cghera, pointed out that the program called <a title="Handbrake Homepage" target="_blank" href="http://handbrake.m0k.org/">Handbrake</a> can automate this entire process. I recommend you give it a try. You can download the program <a href="http://handbrake.m0k.org/?page_id=8" title="Handbrake Download" target="_blank">here</a>, and you can find the documentation <a href="http://handbrake.m0k.org/?page_id=11" title="Handbrake Documentation" target="_blank">here</a>.
+Note: A reader, cghera, pointed out that the program called [here](http://handbrake.m0k.org/?page_id=11).
 
 I have successfully figured out how to convert a video to iPod format and still keep the subtitles! I figured I would share this golden information with everyone else, since it took me so long to figure it out. I have been trying to do this ever since I got a PSP, and then a Video iPod. Neither device can understand subtitles in any format, so in order to have them you must embed them into the video itself. You see, DVDs have subtitles in a separate layer, completely separate from the video itself. That is why you can turn them on or off, or pick which language you want. Some movies have what are called &#8220;built-in subtitles&#8221;. For example, in Lord of the Rings the Elfish is translated to English at the bottom of the screen, whether you have subtitles on or not. If you were to convert your Lord of the Rings DVD to iPod version, those Elfish subtitles would still be there. So, the trick is making ALL the subtitles &#8220;built-in&#8221;. The key? A little program called AviSynth.
 

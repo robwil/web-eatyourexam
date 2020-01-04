@@ -5,7 +5,7 @@ categories:
 date: "2006-02-15T23:05:04Z"
 guid: http://eatyourexam.com/?p=16
 id: 16
-title: Playstation HUB &#038; Possible Fall Release?
+title: Playstation HUB & Possible Fall Release?
 url: /?p=16
 ---
 Speculation has today risen about what industry analysts are calling Sony&#8217;s XBOX-Live killer. When it comes to the current generation XBOX and PS2, there is no contest as to which is better in terms of online play: XBOX Live is simply better. Sony, however, is going to address that with their next-generation PS3, or at least that is the current buzz.

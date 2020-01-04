@@ -12,10 +12,10 @@ I&#8217;m not going to reinvent the wheel here by making my own tutorial. Great 
 
 Check out this site for a nice tutorial on GBA emulation on the iPhone (thanks to the gpsPhone program):
 
-<a target="_blank" href="http://appleiphoneschool.com/gpsphone">http://appleiphoneschool.com/gpsphone/</a>
+[http://appleiphoneschool.com/gpsphone/](http://appleiphoneschool.com/gpsphone)
 
 This tutorial has some spots where it says to upload files via SSH. You can learn how to do that by following this tutorial on the same site:
 
-<a target="_blank" href="http://appleiphoneschool.com/openssh">http://appleiphoneschool.com/openssh</a>
+[http://appleiphoneschool.com/openssh](http://appleiphoneschool.com/openssh)
 
 Overall, that entire site is great for iPhone/iPod Touch beginners.

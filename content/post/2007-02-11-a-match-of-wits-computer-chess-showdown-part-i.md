@@ -29,11 +29,11 @@ The eight engines I chose are as follows: Fritz 10, Aristarch 4.5, Deep Junior 1
 
 The above image shows the current bracket. I did the Round 2 match between Rybka and Shredder 10, but it was a draw by threefold repetition. I&#8217;m going to redo that match and see what happens. The winner of that match will face off against Fritz 10, and then the champion will play Chessmaster 9000. To be continued&#8230;
 
-The following are links to the game files from all the matches so far. They are PGN files, which can be viewed with the freeware program <a target="_blank" title="WinBoard Description Home Page" href="http://www.tim-mann.org/xboard.html">WinBoard</a> (download <a href="http://ftp.gnu.org/gnu/winboard/winboard-4_2_7a.exe" title="Download WinBoard" target="_blank">here</a>).
+The following are links to the game files from all the matches so far. They are PGN files, which can be viewed with the freeware program [here](http://ftp.gnu.org/gnu/winboard/winboard-4_2_7a.exe)).
 
-<a href="http://eatyourexam.com/my-files/chess/round1_fritz_vs_aristarch.pgn" title="Round 1 Fritz v. Aristarch PGN File Download" target="_blank">Round 1 Fritz v. Aristarch</a>  
-<a href="http://eatyourexam.com/my-files/chess/round1_junior_vs_colossus.pgn" title="Round 1 Junior v. Colossus PGN File Download" target="_blank">Round 1 Junior v. Colossus</a>  
-<a href="http://eatyourexam.com/my-files/chess/round1_shredder_vs_gandalf.pgn" title="Round 1 Shredder v. Gandalf PGN File Download" target="_blank">Round 1 Shredder v. Gandalf</a>  
-<a href="http://eatyourexam.com/my-files/chess/round1_sjeng_vs_rybka.pgn" title="Round 1 Sjeng v. Rybka PGN File Download" target="_blank">Round 1 Sjeng v. Rybka</a>  
-<a href="http://eatyourexam.com/my-files/chess/round2_junior_vs_fritz.pgn" title="Round 2 Junior v. Fritz PGN File Download" target="_blank">Round 2 Junior v. Fritz</a>  
-<a href="http://eatyourexam.com/my-files/chess/round2_rybka_vs_shredder.pgn" title="Round 2 Rybka v. Shredder PGN File Download" target="_blank">Round 2 Rybka v. Shredder</a>
+[Round 1 Fritz v. Aristarch](http://eatyourexam.com/my-files/chess/round1_fritz_vs_aristarch.pgn)  
+[Round 1 Junior v. Colossus](http://eatyourexam.com/my-files/chess/round1_junior_vs_colossus.pgn)  
+[Round 1 Shredder v. Gandalf](http://eatyourexam.com/my-files/chess/round1_shredder_vs_gandalf.pgn)  
+[Round 1 Sjeng v. Rybka](http://eatyourexam.com/my-files/chess/round1_sjeng_vs_rybka.pgn)  
+[Round 2 Junior v. Fritz](http://eatyourexam.com/my-files/chess/round2_junior_vs_fritz.pgn)  
+[Round 2 Rybka v. Shredder](http://eatyourexam.com/my-files/chess/round2_rybka_vs_shredder.pgn)
