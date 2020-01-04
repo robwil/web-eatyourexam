@@ -8,7 +8,7 @@ id: 109
 title: 'Howto: GBA Emulation on iPhone'
 url: /?p=109
 ---
-I&#8217;m not going to reinvent the wheel here by making my own tutorial. Great ones already exist.
+I’m not going to reinvent the wheel here by making my own tutorial. Great ones already exist.
 
 Check out this site for a nice tutorial on GBA emulation on the iPhone (thanks to the gpsPhone program):
 

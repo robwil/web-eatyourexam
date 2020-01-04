@@ -18,9 +18,9 @@ One final note is one about franchises. For example, Final Fantasy has about six
 
   1. Metal Gear Solid 2: Sons of Liberty (honorable mention: Metal Gear Solid 3: Snake Eater)
   2. Final Fantasy IX (honorable mention: Final Fantasy X-2, Final Fantasy VII)
-  3. Baldur&#8217;s Gate 2: Shadows of Amn
+  3. Baldur’s Gate 2: Shadows of Amn
   4. Xenosaga Episode III (Honorable Mention: Xenosaga Episode I)
-  5. Vampire: The Masquerade &#8211; Bloodlines
+  5. Vampire: The Masquerade – Bloodlines
   6. Perfect Dark (honorable mention: Goldeneye 007)
   7. Suikoden III
   8. Madden NFL 07 (all of them are great, but I just went with the latest and greatest)

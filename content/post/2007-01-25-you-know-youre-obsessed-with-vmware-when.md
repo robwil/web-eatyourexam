@@ -5,7 +5,7 @@ categories:
 date: "2007-01-25T20:25:09Z"
 guid: http://eatyourexam.com/?p=77
 id: 77
-title: You Know You&#8217;re Obsessed with VMWare When&#8230;
+title: You Know You’re Obsessed with VMWare When…
 url: /?p=77
 ---
 You get an error message that looks like this:
