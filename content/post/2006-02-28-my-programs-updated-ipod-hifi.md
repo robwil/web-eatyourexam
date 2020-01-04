@@ -1,0 +1,14 @@
+---
+author: rob
+categories:
+- General Stuff
+- Tech
+date: "2006-02-28T19:38:59Z"
+guid: http://eatyourexam.com/?p=19
+id: 19
+title: My Programs Updated + iPod HiFi
+url: /?p=19
+---
+I finally found my &#8220;Dell Files&#8221; CD, which is the CD where all the files from my old Dell computer were on. That included a lot of the old things I did in Visual Basic. Anyway, I updated the My Programs page (previously My Games) with a few of the projects I did a few years ago. Most notable is the Pong game, which is a recreation of the old game Pong. The difficulty levels in that game are terrible, though. Easy is too easy, and Hard is too hard. Medium is easy if you know what you&#8217;re doing. Also, the Jeopardy program is pretty cool. I recommend you check that out. The other two I added are less-than-stellar.
+
+On a completely different side note, Apple today announced the iPod HiFi, their liberally priced speaker set for the iPod. I&#8217;m not going to simply restate other articles. If you want to know more about it, go either to [Apple&#8217;s site](http://www.apple.com/ipodhifi/ "Apple iPod HiFi Official Site") or to [MacMinute&#8217;s report](http://www.macminute.com/2006/02/28/ipod-hi-fi-cases/ "MacMinute iPod HiFi Coverage") of the news. My personal opinion: trash. For $349, you can get the [Bose speakers](http://www.bose.com/controller?event=VIEW_PRODUCT_PAGE_EVENT&product=sounddock_multimedia_index "Bose iPod Speakers") and have $50 left to buy a game or something. We all know Bose is the king of audio quality, and TheRegister [reviewed](http://www.theregister.co.uk/2005/02/18/review_bose_sounddock/ "TheRegister's Review of Bose Speakers") the Bose speakers, saying they were the greatest thing since sliced bread. Considering the fact that most mp3&#8217;s on iPods are 128 kbps (probably no more than 192 if you downloaded them from the iTunes Music Store or illegally), there is only so much quality you can get. I guarantee the Bose gets that peak quality, and then some. Even if the Apple&#8217;s is better, you probably won&#8217;t be able to notice it, unless of course you have a DVD-Audio source and have a 384 kbps or greater bitrate on your mp3. Furthermore, it is ugly. While Bose&#8217;s won&#8217;t win a beauty contest either, there are plenty of [very elegant-looking](http://www.alteclansing.com/product_details.asp?pID=INMOTION "Altec Lancing's Elegant iPod Speakers") iPod speaker systems available. The only thing remotely attractive about Apple&#8217;s offering is the fact that you can pick up and take the whole thing with you (a&#8217;la a boombox) thanks to its &#8220;D-cell battery&#8221;. And I will admit that it does include Apple&#8217;s sleek remote. We&#8217;ll see how the quality is, but I just can&#8217;t see it being worth $349.

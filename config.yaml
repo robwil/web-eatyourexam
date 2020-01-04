@@ -1,0 +1,9 @@
+baseURL: http://eatyourexam.com
+disablePathToLower: true
+languageCode: en-us
+title: eatyourexam
+theme: bare
+params:
+  description: a blog about tech, gaming, odds, and ends
+  email: rob@eatyourexam.com
+
